@@ -26,7 +26,7 @@ A desktop application built with **Python (Tkinter)** and **MySQL** for managing
 - Add, update, delete, and search phones (brand, model, price, quantity)
 - Sortable inventory table
 - Automatic low-stock and out-of-stock highlighting
-  <img width="590" height="274" alt="Screenshot 2026-07-08 141840" src="https://github.com/user-attachments/assets/a1d74924-e90b-49c8-bd29-c618b89009b9" />
+ <img width="568" height="284" alt="Screenshot 2026-07-08 141902" src="https://github.com/user-attachments/assets/2d79b220-0439-469e-aafd-b075acf31431" />
 
 ### 👥 Customer & 🚚 Supplier Management
 - Full CRUD (Create, Read, Update, Delete) for customers and suppliers
