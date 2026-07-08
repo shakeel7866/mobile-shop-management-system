@@ -15,24 +15,32 @@ A desktop application built with **Python (Tkinter)** and **MySQL** for managing
 - Secure **Sign Up / Login / Logout** with salted SHA-256 password hashing
 - **Forgot Password** recovery flow using a security question & answer
 - **Guest / Customer Mode** — browse available stock without logging in
+<img width="322" height="263" alt="Screenshot 2026-07-08 141746" src="https://github.com/user-attachments/assets/65889ff8-b32b-44fc-9aca-9f5c42e1782d" />
 
 ### 📊 Admin Dashboard
 - Live stats: total products, total units in stock, total sales, low-stock alerts
 - Real-time clock display
+<img width="590" height="274" alt="Screenshot 2026-07-08 141840" src="https://github.com/user-attachments/assets/508919f1-62e4-4516-8d92-0fd066e970b0" />
 
 ### 📦 Product Management
 - Add, update, delete, and search phones (brand, model, price, quantity)
 - Sortable inventory table
 - Automatic low-stock and out-of-stock highlighting
+  <img width="590" height="274" alt="Screenshot 2026-07-08 141840" src="https://github.com/user-attachments/assets/a1d74924-e90b-49c8-bd29-c618b89009b9" />
 
 ### 👥 Customer & 🚚 Supplier Management
 - Full CRUD (Create, Read, Update, Delete) for customers and suppliers
 - Reusable generic CRUD builder for consistent UI across modules
+<img width="592" height="261" alt="Screenshot 2026-07-08 141925" src="https://github.com/user-attachments/assets/e17c6b4c-4edb-4b26-a20a-c784301b4365" />
+
+
 
 ### 💰 Sales Management
 - Record sales against existing inventory
 - Auto-calculates total amount and deducts sold quantity from stock
 - Prevents overselling beyond available stock
+- <img width="608" height="263" alt="Screenshot 2026-07-08 142041" src="https://github.com/user-attachments/assets/65152daf-725e-4d58-ac1b-4fd810f0917c" />
+
 
 ### 🛍️ Customer Catalog (Public View)
 - Read-only, searchable product catalog for customers
@@ -42,6 +50,8 @@ A desktop application built with **Python (Tkinter)** and **MySQL** for managing
 - Inventory summary (models, units, total value)
 - Sales summary (transactions, units sold, revenue)
 - Top 5 best-selling products
+- <img width="596" height="270" alt="Screenshot 2026-07-08 142100" src="https://github.com/user-attachments/assets/7be31ab1-9be6-4666-a996-33bf10eb7842" />
+
 
 ### ⚙️ Settings
 - Configure low-stock threshold and currency symbol (session-based)
