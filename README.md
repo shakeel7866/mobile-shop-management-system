@@ -97,6 +97,7 @@ The app expects the following MySQL tables (see `create_tables.sql`):
 - **customers** — `id, name, phone, email, address`
 - **suppliers** — `id, company_name, phone, email, address`
 - **sales** — `id, customer_name, product_name, quantity, total_amount, sale_date`
+<img width="445" height="240" alt="Screenshot 2026-07-08 225927" src="https://github.com/user-attachments/assets/f50f2942-4b01-40c8-9f61-34e64289e928" />
 
 
 ## 🚀 Getting Started
@@ -127,7 +128,6 @@ python main.py
 
 The UI uses a customizable color palette (`COLORS` dictionary) that can be easily tweaked to change the app's look — for example, switching to a Dark Navy & Gold theme.
 
-<img width="445" height="240" alt="Screenshot 2026-07-08 225927" src="https://github.com/user-attachments/assets/f50f2942-4b01-40c8-9f61-34e64289e928" />
 
 
 ## 🤝 Contributing
